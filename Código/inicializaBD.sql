@@ -7,5 +7,3 @@ INSERT INTO `residentialbd`.`my_aspnet_roles` (`id`, `applicationId`, `name`) VA
 INSERT INTO `residentialbd`.`my_aspnet_roles` (`id`, `applicationId`, `name`) VALUES ('7', '1', 'Responsavel');
 INSERT INTO `residentialbd`.`my_aspnet_roles` (`id`, `applicationId`, `name`) VALUES ('8', '1', 'Profissional');
 INSERT INTO `residentialbd`.`my_aspnet_roles` (`id`, `applicationId`, `name`) VALUES ('9', '1', 'AdministradorSistema');
-
-teste
